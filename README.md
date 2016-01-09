@@ -1,5 +1,5 @@
 
-This Repository contains contents related to Geo (Earth)
+This repository contains contents related to Geo (Earth)
 But its science is not limited to Earth only!
 
 We will cover
