@@ -14,7 +14,7 @@ We will cover
 
 
 
-All collaborators are welcome to contributue.
+All collaborators are welcome to contribute.
 
 Every thought is IMPORTANT
 
